@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Settlers Sneaks - Pre Order</title>
+<title>Settlers Sneaks</title>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@500;700;900&display=swap" rel="stylesheet">
 <style>
   *{margin:0;padding:0;box-sizing:border-box}
@@ -15,6 +15,7 @@
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     padding: 40px 20px;
+    min-height: 100vh;
   }
   h1{
     font-family: 'Anton', sans-serif;
@@ -152,10 +153,10 @@
 
 <div class="grid">
   
-  <!-- AF1 Triple White -->
+  <!-- Product 1: AF1 Triple White -->
   <div class="card">
     <span class="badge">PRE-ORDER</span>
-    <img src="YOUR_AF1_IMAGE_LINK_HERE" alt="Nike AF1 Triple White">
+    <img src="PASTE_AF1_PIC_URL_HERE" alt="Nike AF1 Triple White">
     <div class="info">
       <div class="name">Nike Air Force 1 '07 Triple White</div>
       <div class="sizes">Sizes: UK 6, 7, 8, 9, 10, 11</div>
@@ -169,10 +170,10 @@
     </div>
   </div>
 
-  <!-- Uplift SC -->
+  <!-- Product 2: Uplift SC -->
   <div class="card">
     <span class="badge">PRE-ORDER</span>
-    <img src="YOUR_UPLIFT_IMAGE_LINK_HERE" alt="Nike Uplift SC">
+    <img src="PASTE_UPLIFT_PIC_URL_HERE" alt="Nike Uplift SC">
     <div class="info">
       <div class="name">Nike Mens Uplift SC Black/Red</div>
       <div class="sizes">Sizes: UK 4, 6, 7, 8, 8.5, 9, 9.5</div>
